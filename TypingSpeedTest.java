@@ -6,7 +6,7 @@ public class TypingSpeedTest {
     private static final String[] words = {
         "the", "quick", "brown", "fox", "jumps", "over", "lazy", "dog","english", "french",
         "dinosour", "envelope", "laptop", "inherit", "where", "ambulance", "restriction",
-        "bottle", "carton", "curtain", "gylcerin", "hypocrisy", "calculation", "worship"
+        "bottle", "carton", "curtain", "gylcerin", "hypocrisy", "calculation", "worship", "12", "&", "#", "5638", "!", "04621", "@", "632fbjd", "573924", "##", "++"
     };
 
     public static void main(String[] args) {
